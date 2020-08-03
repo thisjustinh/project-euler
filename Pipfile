@@ -9,6 +9,8 @@ pylint = "*"
 [packages]
 matplotlib = "*"
 numpy = "*"
+jupyter = "*"
+notebook = "*"
 
 [requires]
 python_version = "3.8"
